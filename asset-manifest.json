@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SayNoToDrugsLive/static/css/main.e6c13ad2.css",
+    "main.js": "/SayNoToDrugsLive/static/js/main.500a94c3.js",
+    "static/js/787.799cc8de.chunk.js": "/SayNoToDrugsLive/static/js/787.799cc8de.chunk.js",
+    "static/media/WeedImg.png": "/SayNoToDrugsLive/static/media/WeedImg.4558a5d4fa4690993e06.png",
+    "static/media/AlcoholImg.png": "/SayNoToDrugsLive/static/media/AlcoholImg.4651d3f834e1b40ff2c6.png",
+    "static/media/CigaretteImg.png": "/SayNoToDrugsLive/static/media/CigaretteImg.ea5d693e801764a8a8f3.png",
+    "static/media/Self_Plesure.jpg": "/SayNoToDrugsLive/static/media/Self_Plesure.b68a7a151dd8818043e8.jpg",
+    "static/media/GaneshImg.jpg": "/SayNoToDrugsLive/static/media/GaneshImg.4e9eb3fb711b61fe2804.jpg",
+    "static/media/CoolipImg.jpg": "/SayNoToDrugsLive/static/media/CoolipImg.dfcc5168d1e370b038ec.jpg",
+    "index.html": "/SayNoToDrugsLive/index.html",
+    "main.e6c13ad2.css.map": "/SayNoToDrugsLive/static/css/main.e6c13ad2.css.map",
+    "main.500a94c3.js.map": "/SayNoToDrugsLive/static/js/main.500a94c3.js.map",
+    "787.799cc8de.chunk.js.map": "/SayNoToDrugsLive/static/js/787.799cc8de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.500a94c3.js"
+  ]
+}
